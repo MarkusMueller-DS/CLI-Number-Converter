@@ -10,4 +10,4 @@ Uses an iterative approach.
 
 
 ### ToDo
-- currently only support whole numbers
+- currently only supports whole numbers

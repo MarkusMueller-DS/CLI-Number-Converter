@@ -7,3 +7,7 @@ Uses an iterative approach.
 2. change directory, where the file is located
 3. type `python3 numberConverter.py`
 4. now you can type any decimal number
+
+
+### ToDo
+- currently only support whole numbers
